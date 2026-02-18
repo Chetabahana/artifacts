@@ -4,13 +4,13 @@ span: span11
 title: eQuantum
 baseurl: /artifacts
 repository: Chetabahana/artifacts
-action: Chetabahana/grammar/actions/runs/16333169034
+action: Chetabahana/grammar/actions/runs/22135494459
 description: 
 
-#debug:
-#  dist: false
-#  compress: true
-#  shortcodes: true
+debug:
+  dist: false
+  compress: true
+  shortcodes: true
 
 lsi: false
 incremental: true
@@ -34,7 +34,6 @@ exclude:
   - Dockerfile
 
 plugins:
-  - jemoji
   - jekyll-gist
   - jekyll-avatar
   - jekyll-mentions
